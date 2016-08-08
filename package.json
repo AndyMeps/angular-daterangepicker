@@ -11,10 +11,11 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "bootstrap-daterangepicker": "1.3.23"
+    "bootstrap-daterangepicker": "git://github.com/AndyMeps/bootstrap-daterangepicker.git#4e3c933c39dae02691b870e828a1df0269d5c28b"
   },
   "main": "index.js",
   "devDependencies": {
+    "bootstrap-daterangepicker": "git://github.com/AndyMeps/bootstrap-daterangepicker.git#4e3c933c39dae02691b870e828a1df0269d5c28b",
     "coffeelint": "^1.12.1",
     "grunt": "~0.4.1",
     "grunt-coffeelint": "^0.0.13",

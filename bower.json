@@ -21,7 +21,7 @@
   "dependencies": {
     "angular": "^1.2.17",
     "bootstrap": "^3.0.0",
-    "bootstrap-daterangepicker": "^2.0.0"
+    "bootstrap-daterangepicker": "AndyMeps/bootstrap-daterangepicker#4e3c933c39dae02691b870e828a1df0269d5c28b"
   },
   "devDependencies": {
     "angular-messages": "^1.2.17"
